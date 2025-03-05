@@ -18,5 +18,5 @@ Kiitämme Turun yliopistoa ja Turun yliopiston ylioppilaskuntaa tuesta.
 <br />
 <p style="text-align: center;">
     <img src="/assets/UTU-logo.jpeg" alt="UTU sponsors us" style="width: 280px;">
-    <img src="/assets/tyy-logo.jpg" alt="TYY sponsors us" style="width: 280px;">
+    <img src="/assets/tyy-logo.jpg" alt="TYY sponsors us" style="width: 140px;">
 </p>
