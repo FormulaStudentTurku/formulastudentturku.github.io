@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Student Formula Turku
-email: machina-hallitus@utu.fi
+email: studentformulaturku@utu.fi
 description: >- # this means to ignore newlines until "baseurl:"
   Motorsport team from University of Turku.
   Discover our journey of designing, building, and racing 
@@ -35,7 +35,7 @@ instagram_username: studentformulaturku
 youtube_username: studentformulaturku
 facebook_username: studentformulaturku
 github_username:  
-address: Vesilinnantie 5, 20500 Turku
+address: ICT-City, Joukahaisenkatu 3, 20520 Turku
 
 social_feed:
   instagram:
