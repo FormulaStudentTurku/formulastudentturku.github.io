@@ -24,11 +24,11 @@ Student Formula Turku is a team of students from University of Turku who are bui
 
 The University of Turku is a community of more than 17,500 students. Through this partnership, the team can provide visibility to commerical company and products at a number of major student events our cars will be on display. This may allow the company to target its marketing and increase its visibility among the top talent of the future. On top of that, our participation in competition will boost companies and reputation brand recognition internationally.
 
-<br />
-
 <p style="text-align: center;">
     <img src="assets/DesignProcess.png" alt="Our design process" style="width: 600px;">
 </p>
+
+<br />
 
 # Creating shared value
 
