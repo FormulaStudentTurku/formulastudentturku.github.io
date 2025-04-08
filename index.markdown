@@ -8,7 +8,9 @@ list_title: From the Blog
 
 ---
 
-Student Formula Turku on hiljattain perustettu tiimi, joka koostuu Turun yliopiston eri tiedealojen opiskelijoista. Tiimin tavoitteena on kilpailla tulevaisuudessa kansainvälisessä Formula Student-sarjassa.
+Student Formula Turku is a team of students from University of Turku who are building the race car to compete in the international [Formula Student](https://en.wikipedia.org/wiki/Formula_Student) competitions.
+<br />
+
 <p style="text-align: center;">
     <img src="assets/sample.jpeg" alt="Team photo" style="width: 600px;">
     <img src="assets/DesignProcess.png" alt="Our design process" style="width: 600px;">
@@ -18,14 +20,14 @@ Student Formula Turku on hiljattain perustettu tiimi, joka koostuu Turun yliopis
 
 <br />
 
-# Miten te hyötyisitte yhteistyöstä? 
+# How do sponsors benefit from cooperation with the team? 
 
-Turun yliopisto on yli 17,500 opiskelijan yhteisö. Yhteistyön avulla voimme tarjota näkyvyyttä yrityksellenne ja tuotteillenne lukuisissa merkittävissä opiskelijatapahtumissa sekä keskeisillä kampusalueilla, joissa automme tulee olemaan esillä. Meidän avulla yrityksenne pystyy kohdentamaan markkinointia ja parantamaan sen tunnettavuutta tulevaisuuden huippuosaajien keskuudessa.
+The University of Turku is a community of more than 17,500 students. Through this partnership, the team can provide visibility to commerical company and products at a number of major student events our cars will be on display. This may allow the company to target its marketing and increase its visibility among the top talent of the future. On top of that, our participation in competition will boost companies and reputation brand recognition internationally.
 
 <br />
 
-# Miksi tukea meitä? 
+# Creating shared value
 
-Opiskelijoiden ylläpitämänä tiiminä yhteistyökumppaneidemme tuki on meille elintärkeää ja yritysten tuki mahdollistaa tulevaisuuden ammattilaisten koulutusmahdollisuuksia. Tarjoamme yrityksille näkyvyyttä omassa sosiaalisessa mediassamme, tapahtumissa sekä luonnollisesti mainoksina Formulamme rakenteissa. Haluamme tehdä monimuotoista yritysyhteistyötä ja siksi toivomme yrityksiltä tuotesponsorointia, mahdollisuutta käyttää yrityksen palveluita tai rahallista tukea projektillemme.
+As a student-led team, the support of commercial partners is vital to the team. The support of businesses enables the team to provide training opportunities for the professionals of the future. The team offers companies visibility on  social media, at events and, of course, as advertisements on the Formula Student car. Team aspires to have a multi-faceted business partnership and therefore looks for product sponsorship, the possibility to use a company's services or financial support for the race car.
 
 <br />

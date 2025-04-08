@@ -5,11 +5,11 @@ permalink: /sponsors/
 ---
 
 
-Kiitämme Ansysia ja EDRMedesoa Ansys Fluent -ohjelmiston toimittamisesta, jota käytämme kilpa-auton aerodynamiikkasimulointeihin.
+We thank Ansys and EDRMedeso for providing Ansys Fluent software, which we use for our race car aerodynamic simulations.
 
 <br />
 
-Kiitämme Turun yliopistoa ja Turun yliopiston ylioppilaskuntaa tuesta.
+We also thank the University of Turku and the Student Union of the University of Turku for their support.
 
 <p style="text-align: center;">
     <img src="/assets/ANSYS_logo.png" alt="ANSYS sponsors us" style="width: 280px;">
