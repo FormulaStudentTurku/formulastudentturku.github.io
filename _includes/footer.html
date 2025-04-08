@@ -3,8 +3,6 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -13,8 +11,6 @@
               {{ site.author | escape }}
             {%- else -%}
               {{ site.title | escape }} ry
-            {%- else -%}
-              {{ site.address | escape }}
             {%- endif -%}
             </li>
             {%- if site.email -%}
@@ -28,7 +24,7 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>Built in Turku with ❤️.</p>
+        <p>{{ site.address }}</p>
         <p>Copyright 2023-2025</p>
       </div>
     </div>
