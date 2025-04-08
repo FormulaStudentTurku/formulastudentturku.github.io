@@ -29,8 +29,8 @@ In order to join the team, send an email to [our contact email address](mailto:{
 The core team meets weekly to discuss progress and set goals for the coming week. In between meetings, members work independently or in subteams to design, simulate, build, and test the car or manage other essential aspects of the team. Work is organized around key phases such as concept development, design, manufacturing, and testing—culminating in competition events. Depending on your role, your tasks may include CAD modeling, circuit board design, manufacturing parts in the workshop, reaching out to sponsors, or creating content for our social media channels. Everyone contributes where they can, and we encourage you to take ownership of your projects while collaborating with others.
 
 <p style="text-align: left;">
-    <img src="/assets/notebook.jpeg" alt="Engineering diary" style="width: 280px;">
-    <img src="/assets/calculations.jpeg" alt="Technical calculations" style="width: 280px;">
+    <img src="/assets/notebook.jpeg" alt="Engineering diary" style="width: 300px;">
+    <img src="/assets/calculations.jpeg" alt="Technical calculations" style="width: 300px;">
 </p>
 
 
