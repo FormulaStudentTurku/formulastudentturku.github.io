@@ -10,8 +10,7 @@ Working on the Formula Student car is an opportunity to experience all stages of
 
 # The application process
 
-In order to join the team, send an email to the team chairman Jarmo Hannula at [jarmo.j.hannula@utu.fi](mailto:jarmo.j.hannula@utu.fi), and fill the linked form.
-[Fill this form to pay and join.](https://forms.office.com/e/Uw9cPtr0i5)
+In order to join the team, send an email to [mailto:{{ site.email }}]({{ site.email }}) explaining your motivation and qualifications, and [fill the linked form to pay the joining fee and join.](https://forms.office.com/e/Uw9cPtr0i5)
 
 <br />
 
@@ -20,14 +19,16 @@ In order to join the team, send an email to the team chairman Jarmo Hannula at [
 - Technical calculations.
 - CAD, FEM, CFD.
 - Embedded HW/SW design.
-- Manufacturing (welding, CNC, composites, etc.)
+- Manufacturing (assembly, welding, CNC, composites, etc.)
 - Marketing.
 - PR and sponsor relations.
 
 <br />
 
 # Work description
+The core team meets weekly to discuss progress and set goals for the coming week. In between meetings, members work independently or in subteams to design, simulate, build, and test the car or manage other essential aspects of the team. Work is organized around key phases such as concept development, design, manufacturing, and testing—culminating in competition events. Depending on your role, your tasks may include CAD modeling, circuit board design, manufacturing parts in the workshop, reaching out to sponsors, or creating content for our social media channels. Everyone contributes where they can, and we encourage you to take ownership of your projects while collaborating with others.
 
 <br />
 
 # Our values
+We believe in learning by doing. Formula Student is an opportunity to grow beyond the classroom—to turn ideas into reality, make mistakes, and come out stronger. We value curiosity, teamwork, and persistence. Whether you're designing a suspension system or planning a campaign to engage new sponsors, your efforts drive the team forward. Respect, inclusivity, and shared responsibility are the foundation of our culture. We support each other, celebrate progress, and push the limits of what a student team can achieve.
