@@ -7,13 +7,12 @@ layout: home
 list_title: From the Blog
 
 ---
-
+<br />
 Student Formula Turku is a team of students from University of Turku who are building the race car to compete in the international [Formula Student](https://en.wikipedia.org/wiki/Formula_Student) competitions.
 <br />
 
 <p style="text-align: center;">
     <img src="assets/sample.jpeg" alt="Team photo" style="width: 600px;">
-    <img src="assets/DesignProcess.png" alt="Our design process" style="width: 600px;">
     <img src="assets/aero-v2.jpg" alt="Recent developments" style="width: 600px;">
     <img src="assets/ergonomics-rig.jpeg" alt="Chassis ergonomics rig" style="width: 600px;">
 </p>
@@ -25,6 +24,10 @@ Student Formula Turku is a team of students from University of Turku who are bui
 The University of Turku is a community of more than 17,500 students. Through this partnership, the team can provide visibility to commerical company and products at a number of major student events our cars will be on display. This may allow the company to target its marketing and increase its visibility among the top talent of the future. On top of that, our participation in competition will boost companies and reputation brand recognition internationally.
 
 <br />
+
+<p style="text-align: center;">
+    <img src="assets/DesignProcess.png" alt="Our design process" style="width: 600px;">
+</p>
 
 # Creating shared value
 

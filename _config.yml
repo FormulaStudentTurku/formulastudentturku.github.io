@@ -32,9 +32,8 @@ url: "https://studentformulaturku.github.io/" # the base hostname & protocol for
 #  - /contact.html
 
 instagram_username: studentformulaturku
-youtube_username: studentformulaturku
-facebook_username: studentformulaturku
-github_username:  
+#youtube_username: studentformulaturku
+#facebook_username: studentformulaturku
 address: ICT-City, Joukahaisenkatu 3, 20520 Turku
 
 social_feed:
