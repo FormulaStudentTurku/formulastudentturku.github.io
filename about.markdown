@@ -9,7 +9,7 @@ Student Formula Turku is a team building a racecar with internal combustion engi
 We aim to design and build a competitive Formula Student race car while providing hands-on engineering experience for students.
 
 <p style="text-align: center;">
-    <img src="assets/sample.jpeg" alt="Team photo" style="width: 600px;">
+    <img src="/assets/sample.jpeg" alt="Team photo" style="width: 600px;">
 </p>
 
 <br />

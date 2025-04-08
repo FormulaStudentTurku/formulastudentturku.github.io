@@ -13,7 +13,7 @@ Student Formula Turku is a team of students from University of Turku who are bui
 
 <p style="text-align: center;">
     <img src="assets/render.jpeg" alt="Frame" style="width: 600px;">
-    <img src="assets/abaqus.jpg" alt="FEM" style="width: 600px;">
+    <img src="assets/abaqus.jpeg" alt="FEM" style="width: 600px;">
     <img src="assets/aero-v2.jpg" alt="Recent developments" style="width: 600px;">
     <img src="assets/ergonomics-rig.jpeg" alt="Chassis ergonomics rig" style="width: 600px;">
 </p>
