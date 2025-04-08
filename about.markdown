@@ -26,7 +26,7 @@ Electronics team leader - Aleski Kytovita - [aleksi.j.kytoviita@utu.fi](mailto:a
 <br />
 Aerodynamics team leader - Juho Sikilä - [jssiki@utu.fi](mailto:jssiki@utu.fi)
 <br />
-Manufacturing team leader - Olli Ranto - [olhran@utu.fi](olhran@utu.fi)
+Manufacturing team leader - Olli Ranto - [olhran@utu.fi](mailto:olhran@utu.fi)
 
 <br />
 
