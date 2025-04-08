@@ -20,3 +20,11 @@ We also thank the University of Turku and the Student Union of the University of
     <img src="/assets/UTU-logo.jpeg" alt="UTU sponsors us" style="width: 280px;">
     <img src="/assets/tyy-logo.jpg" alt="TYY sponsors us" style="width: 140px;">
 </p>
+
+<br />
+
+We also thank Sporttiauto for providing us with electronic control unit (ECU).
+
+<p style="text-aligh: center;">
+    <img src="/assets/sporttiauto.png" alt="Sporttiauto sponsors us" style="width: 200px;">
+</p>

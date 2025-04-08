@@ -22,7 +22,9 @@ Student Formula Turku is a team of students from University of Turku who are bui
 
 # How do sponsors benefit from cooperation with the team? 
 
-The University of Turku is a community of more than 17,500 students. Through this partnership, the team can provide visibility to commerical company and products at a number of major student events our cars will be on display. This may allow the company to target its marketing and increase its visibility among the top talent of the future. On top of that, our participation in competition will boost companies and reputation brand recognition internationally.
+The University of Turku is a community of more than 17,500 students. Through this partnership, the team can provide visibility to commerical company and products at a number of major student events our cars will be on display. 
+<br />
+This may allow the company to target its marketing and increase its visibility among the top talent of the future. On top of that, our participation in competition will boost companies and reputation brand recognition internationally.
 
 <p style="text-align: center;">
     <img src="assets/DesignProcess.png" alt="Our design process" style="width: 600px;">
@@ -32,4 +34,6 @@ The University of Turku is a community of more than 17,500 students. Through thi
 
 # Creating shared value
 
-As a student-led team, the support of commercial partners is vital to the team. The support of businesses enables the team to provide training opportunities for the professionals of the future. The team offers companies visibility on  social media, at events and, of course, as advertisements on the Formula Student car. Team aspires to have a multi-faceted business partnership and therefore looks for product sponsorship, the possibility to use a company's services or financial support for the race car.
+As a student-led team, the support of commercial partners is vital to the team. The support of businesses enables the team to provide training opportunities for the professionals of the future. The team offers companies visibility on  social media, at events and, of course, as advertisements on the Formula Student car. 
+<br />
+Team aspires to have a multi-faceted business partnership and therefore looks for product sponsorship, the possibility to use a company's services or financial support for the race car.

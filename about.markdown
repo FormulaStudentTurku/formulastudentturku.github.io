@@ -18,11 +18,11 @@ We aim to design and build a competitive Formula Student race car while providin
 
 Chairman - Jarmo Hannula - [jarmo.j.hannula@utu.fi](mailto:jarmo.j.hannula@utu.fi)
 <br />
-Chassis team leader - Oscar Lancaster - [oscar.w.lancaster@utu.fi](mailto:oscar.w.lancaster@utu.fi)
+Chassis team leader - Verneri Vuoti - [verneri.m.vuoti@utu.fi](mailto:verneri.m.vuoti@utu.fi)
 <br />
 Powertrain team leader - Mikael Elo - [mikael.m.elo@utu.fi](mailto:mikael.m.elo@utu.fi)
 <br />
-Electronics team leader - Aleski Kytovita - [aleksi.j.kytoviita@utu.fi](mailto:aleksi.j.kytoviita@utu.fi)
+Electronics team leader - Aleski Kytöviita - [aleksi.j.kytoviita@utu.fi](mailto:aleksi.j.kytoviita@utu.fi)
 <br />
 Aerodynamics team leader - Juho Sikilä - [jssiki@utu.fi](mailto:jssiki@utu.fi)
 <br />
