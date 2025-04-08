@@ -4,7 +4,7 @@
 
 layout: home
 # title: Home Page
-list_title: From the Blog
+#list_title: From the Blog
 
 ---
 <br />
