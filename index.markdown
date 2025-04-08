@@ -12,7 +12,8 @@ Student Formula Turku is a team of students from University of Turku who are bui
 <br />
 
 <p style="text-align: center;">
-    <img src="assets/sample.jpeg" alt="Team photo" style="width: 600px;">
+    <img src="assets/render.jpeg" alt="Frame" style="width: 600px;">
+    <img src="assets/abaqus.jpg" alt="FEM" style="width: 600px;">
     <img src="assets/aero-v2.jpg" alt="Recent developments" style="width: 600px;">
     <img src="assets/ergonomics-rig.jpeg" alt="Chassis ergonomics rig" style="width: 600px;">
 </p>
@@ -32,5 +33,3 @@ The University of Turku is a community of more than 17,500 students. Through thi
 # Creating shared value
 
 As a student-led team, the support of commercial partners is vital to the team. The support of businesses enables the team to provide training opportunities for the professionals of the future. The team offers companies visibility on  social media, at events and, of course, as advertisements on the Formula Student car. Team aspires to have a multi-faceted business partnership and therefore looks for product sponsorship, the possibility to use a company's services or financial support for the race car.
-
-<br />

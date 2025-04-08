@@ -8,6 +8,10 @@ permalink: /about/
 Student Formula Turku is a team building a racecar with internal combustion engine from University of Turku founded in 2023. 
 We aim to design and build a competitive Formula Student race car while providing hands-on engineering experience for students.
 
+<p style="text-align: center;">
+    <img src="assets/sample.jpeg" alt="Team photo" style="width: 600px;">
+</p>
+
 <br />
 
 # Team Leaders
