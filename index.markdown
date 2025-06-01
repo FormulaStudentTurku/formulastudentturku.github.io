@@ -43,4 +43,4 @@ As a student-led team, the support of commercial partners is vital to the team. 
 
 Team aspires to have a multi-faceted business partnership and therefore looks for product sponsorship, the possibility to use a company's services or financial support for the race car.
 
-# [Join Student Formula Turku] (joinus.md)
+# [Join Student Formula Turku]({{ site.baseurl }}/joinus/)
