@@ -14,7 +14,7 @@ Working on the Formula Student car is an opportunity to experience all stages of
 In order to join the team, please fill the linked form below and send an email to [our contact email address](mailto:{{ site.email }}) expressing your intent.
 
 <div class="join-box">
-  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=vZuI59h87k6dBxjQX59IwT_QVID4W39FvYqw6j9hEw1UMFJGMUczUzhKSkNMVUtNMDI3SUNLM0ZZVyQlQCN0PWcu&origin=QRCode">Fill the joining form</a>
+  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=vZuI59h87k6dBxjQX59IwT_QVID4W39FvYqw6j9hEw1UMFJGMUczUzhKSkNMVUtNMDI3SUNLM0ZZVyQlQCN0PWcu&origin=QRCode" target="_blank" rel="noopener noreferrer">Fill the joining form</a>
 </div>
 
 <br />
