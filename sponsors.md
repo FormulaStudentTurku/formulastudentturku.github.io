@@ -28,3 +28,7 @@ We also thank Sporttiauto for providing us with electronic control unit (ECU).
 <p style="text-aligh: center;">
     <img src="/assets/sporttiauto.png" alt="Sporttiauto sponsors us" style="width: 200px;">
 </p>
+
+<div class="join-box">
+  <a href="mailto:{{ site.email }}">Email us to become a sponsor</a>
+</div>
