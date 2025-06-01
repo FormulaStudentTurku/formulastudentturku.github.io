@@ -34,6 +34,10 @@ This may allow the company to target its marketing and increase its visibility a
 
 <br />
 
+<div class="join-box">
+  <a href="mailto:{{ site.email }}">Become a sponsor</a>
+</div>
+
 
 # Creating shared value
 
@@ -42,8 +46,6 @@ As a student-led team, the support of commercial partners is vital to the team. 
 <br />
 
 Team aspires to have a multi-faceted business partnership and therefore looks for product sponsorship, the possibility to use a company's services or financial support for the race car.
-
-# [Join Student Formula Turku]({{ site.baseurl }}/joinus/)
 
 <div class="join-box">
   <a href="{{ site.baseurl }}/joinus/">Join Student Formula Turku</a>
