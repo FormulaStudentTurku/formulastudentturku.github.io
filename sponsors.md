@@ -22,10 +22,12 @@ We thank the following sponsors for their continuous support and belief in our s
 <br />
 
 
-<p style="text-aligh: center;">
+<p style="text-align: center;">
     <img src="/assets/sporttiauto.png" alt="Sporttiauto sponsors Student Formula Turku" style="width: 200px;">
-    <img src="/assets/kisssoft.png" alt="Sporttiauto sponsors Student Formula Turku" style="width: 200px;">
+    <img src="/assets/kisssoft.png" alt="Kisssoft sponsors Student Formula Turku" style="width: 200px;">
 </p>
+
+<br />
 
 <div class="join-box">
   <a href="mailto:{{ site.email }}">Become a sponsor</a>
