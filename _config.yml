@@ -21,16 +21,15 @@
 title: Student Formula Turku
 email: studentformulaturku@utu.fi
 description: >- # this means to ignore newlines until "baseurl:"
-  Motorsport team from University of Turku.
-  Discover our journey of designing, building, and racing 
-  high-performance Formula Student cars.
+  Formula Student team from University of Turku.
+  We design, build and race high-performance Formula Student cars.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://studentformulaturku.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 header_pages:
-  - index
-  - about
-  - joinus
-  - sponsors
+  - index.markdown
+  - about.markdown
+  - joinus.md
+  - sponsors.md
 #  - /contact.html
 
 instagram_username: studentformulaturku
