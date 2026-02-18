@@ -8,7 +8,7 @@ title: Home
 
 ---
 <br />
-Student Formula Turku is a team of students from University of Turku who are building the race car to compete in the international <a href="https://en.wikipedia.org/wiki/Formula_Student" target="_blank" rel="noopener noreferrer">Formula Student</a> competitions.
+Formula Student Turku is a team of students from University of Turku who are building the race car to compete in the international <a href="https://en.wikipedia.org/wiki/Formula_Student" target="_blank" rel="noopener noreferrer">Formula Student</a> competitions.
 <br />
 
 <p style="text-align: center;">

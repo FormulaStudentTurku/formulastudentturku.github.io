@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-Student Formula Turku is a team building a racecar with internal combustion engine from University of Turku founded in 2024. 
+Formula Student Turku is a team building a racecar with internal combustion engine from University of Turku founded in 2024. 
 We aim to design and build a competitive Formula Student race car while providing hands-on engineering experience for students.
 
 <p style="text-align: center;">
@@ -16,19 +16,17 @@ We aim to design and build a competitive Formula Student race car while providin
 
 # Team Leaders
 
-Chairman - Jarmo Hannula - [jarmo.j.hannula@utu.fi](mailto:jarmo.j.hannula@utu.fi)
+Chairman - Elias Patronen - [elias.a.patronen@utu.fi](mailto:elias.a.patronen@utu.fi)
 <br />
 Chassis team leader - Verneri Vuoti - [verneri.m.vuoti@utu.fi](mailto:verneri.m.vuoti@utu.fi)
 <br />
 Powertrain team leader - Mikael Elo - [mikael.m.elo@utu.fi](mailto:mikael.m.elo@utu.fi)
 <br />
-Electronics team leader - Aleski Kytöviita - [aleksi.j.kytoviita@utu.fi](mailto:aleksi.j.kytoviita@utu.fi)
+Electronics team leader - Elias Rämö - [elias.o.ramo@utu.fi](mailto:elias.o.ramo@utu.fi)
 <br />
 Aerodynamics team leader - Juho Sikilä - [jssiki@utu.fi](mailto:jssiki@utu.fi)
 <br />
-Manufacturing team leader - Olli Ranto - [olhran@utu.fi](mailto:olhran@utu.fi)
-<br />
-Marketing team leader - Kristian Robertsson - [kristian.e.robertsson@utu.fi](mailto:kristian.e.robertsson@utu.fi)
+Marketing team leader - Markus Miilunpalo - [markus.j.miilunpalo@utu.fi](mailto:markus.j.miilunpalo)
 
 <br />
 
