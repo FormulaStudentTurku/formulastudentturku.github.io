@@ -282,7 +282,7 @@ table {
   border-radius: 10px;
 
   a {
-    text-decoration: none;
+    text-decoration: solid underline $brand-color2 3px;
     color: #d60000;
     font-weight: bold;
     font-size: 1.25rem;
