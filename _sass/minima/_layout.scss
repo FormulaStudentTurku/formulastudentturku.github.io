@@ -199,7 +199,7 @@
   // background-color: $brand-color2;
 
   // Set gradient background
-  background: linear-gradient(to bottom, $background-color, $brand-color2);
+  background:  $background-color; //linear-gradient(to bottom, $background-color, $brand-color2);
 }
 
 .page-heading {
