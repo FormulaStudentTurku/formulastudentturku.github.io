@@ -10,7 +10,7 @@
   position: relative;
 
   // Add background color
-  background-color: white;
+  background-color: $background-color;
 }
 
 .site-title {
@@ -125,7 +125,7 @@
   padding: $spacing-unit 0;
 
   // Add background color
-  background-color: white;
+  background-color: $background-color;
 }
 
 .footer-heading {
@@ -199,7 +199,7 @@
   // background-color: $brand-color2;
 
   // Set gradient background
-  background: linear-gradient(to bottom, white, $brand-color2);
+  background: linear-gradient(to bottom, $background-color, $brand-color2);
 }
 
 .page-heading {
